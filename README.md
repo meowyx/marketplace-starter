@@ -17,8 +17,8 @@ Make sure you have the following installed:
 ### Clone the repository
 
 ```bash
-git clone https://github.com/meowyx/web3-marketplace-linea.git
-cd web3-linea-marketplace
+git clone https://github.com/meowyx/marketplace-starter.git
+cd marketplace-starter
 
 ```
 
